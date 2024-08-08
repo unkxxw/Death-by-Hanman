@@ -1,0 +1,29 @@
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.csproj.AssemblyReference.cache
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.AssemblyInfoInputs.cache
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.AssemblyInfo.cs
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.csproj.CoreCompileInputs.cache
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.exe
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.deps.json
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.runtimeconfig.json
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.dll
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.pdb
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.dll
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\refint\HangmanGame2.dll
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.pdb
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.genruntimeconfig.cache
+C:\Users\kagis\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\HangmanGame2\HangmanGame2\obj\Debug\net6.0\ref\HangmanGame2.dll
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.exe
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.deps.json
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.runtimeconfig.json
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.dll
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\bin\Debug\net6.0\HangmanGame2.pdb
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.AssemblyInfoInputs.cache
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.AssemblyInfo.cs
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.csproj.CoreCompileInputs.cache
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.dll
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\refint\HangmanGame2.dll
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.pdb
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\HangmanGame2.genruntimeconfig.cache
+C:\Users\Kagiso.LAPTOP-NBH9SAET\OneDrive - Eduvos\ITECA0- Basic C# Programming\Project folder\K.N Mayekiso ps.2022.p7f3v5 Project 2\HangmanGame2\HangmanGame2\obj\Debug\net6.0\ref\HangmanGame2.dll
